@@ -1,4 +1,3 @@
-# my-resume
 # About This Repository
 
 This repository contains my up-to-date resume written in LaTeX.
