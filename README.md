@@ -1,5 +1,5 @@
 # my-resume
-## About This Repository
+# About This Repository
 
 This repository contains my up-to-date resume written in LaTeX.
 The source code is publicly available so anyone can use it as a
