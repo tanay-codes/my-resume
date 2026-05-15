@@ -1,4 +1,18 @@
 # my-resume
+## About This Repository
+
+This repository contains my up-to-date resume written in LaTeX.
+The source code is publicly available so anyone can use it as a
+template to build their own clean, professional resume.
+
+The resume is maintained as a `.tex` file and compiled into a
+PDF using LaTeX. Any changes to the source are pushed here
+along with the updated PDF, so the latest version is always
+available to download directly from this repo.
+
+Feel free to fork this repository, use the template, and
+customize it with your own details.
+
 # 📄 LaTeX Resume — Step by Step Guide
 
 A clean, professional resume built using LaTeX. This repository contains
